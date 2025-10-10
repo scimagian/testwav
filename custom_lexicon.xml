@@ -9,4 +9,36 @@
         <grapheme>ईडीआई</grapheme>
         <alias>E D I</alias>
     </lexeme>
+    <lexeme>
+        <grapheme>ई-डी-आई</grapheme>
+        <alias>E D I</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>साउंडबॉक्स</grapheme>
+        <alias>soundbox</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>लोन</grapheme>
+        <alias>loan</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>रेंटल</grapheme>
+        <alias>rental</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>केवाईसी</grapheme>
+        <alias>K Y C</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>के-वाई-सी</grapheme>
+        <alias>K Y C</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>KYC</grapheme>
+        <alias>K Y C</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>DTH</grapheme>
+        <alias>D T H</alias>
+    </lexeme>
 </lexicon>
