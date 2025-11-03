@@ -41,4 +41,12 @@
         <grapheme>DTH</grapheme>
         <alias>D T H</alias>
     </lexeme>
+    <lexeme>
+        <grapheme>रिफंड</grapheme>
+        <alias>refund</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>नमस्ते।</grapheme>
+        <alias>Namaste.</alias>
+    </lexeme>
 </lexicon>
