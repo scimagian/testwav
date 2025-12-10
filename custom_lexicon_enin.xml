@@ -6,6 +6,10 @@
         http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="ipa" xml:lang="hi-IN">
 <lexeme>
+    <grapheme>फिर</grapheme>
+    <phoneme>pʰɪr</phoneme>
+  </lexeme>
+<lexeme>
     <grapheme>fir</grapheme>
     <alias>फिर</alias>
 </lexeme>
