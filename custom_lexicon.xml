@@ -192,4 +192,12 @@
     <grapheme>Z</grapheme>
     <alias>ज़ेड</alias>
 </lexeme>
+<lexeme>
+    <grapheme>fir</grapheme>
+    <alias>फिर</alias>
+</lexeme>
+<lexeme>
+    <grapheme>Fir</grapheme>
+    <alias>फिर</alias>
+</lexeme>
 </lexicon>
