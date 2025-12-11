@@ -63,17 +63,6 @@
         <grapheme>मैं</grapheme>
         <alias>main</alias>
     </lexeme>
- 
-    <!-- "फिर" -->
-    <lexeme>
-        <grapheme>फिर</grapheme>
-        <alias>fir</alias>
-    </lexeme>
- 
-    <lexeme>
-        <grapheme>फिरसे</grapheme>
-        <alias>fir se</alias>
-    </lexeme>
     <lexeme>
         <grapheme>पीओएस आईडी</grapheme>
         <alias>POS ID </alias>
@@ -88,14 +77,14 @@
     </lexeme>
    
     <lexeme><grapheme>खाता संख्या</grapheme><alias>khaata sankhya</alias></lexeme>
-      <lexeme>
+    <lexeme>
     <grapheme>A</grapheme>
     <alias>ए</alias>
-</lexeme>
-<lexeme>
+    </lexeme>
+    <lexeme>
     <grapheme>B</grapheme>
     <alias>बी</alias>
-</lexeme>
+    </lexeme>
 <lexeme>
     <grapheme>C</grapheme>
     <alias>सी</alias>
