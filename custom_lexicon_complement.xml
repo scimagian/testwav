@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon version="1.0"
+      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+        http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
+      alphabet="ipa" xml:lang="hi-IN">
+    <lexeme>
+        <grapheme>ईडीआई</grapheme>
+        <alias>E D I</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>ई-डी-आई</grapheme>
+        <alias>E D I</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>साउंडबॉक्स</grapheme>
+        <alias>soundbox</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>लोन</grapheme>
+        <alias>loan</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>रेंटल</grapheme>
+        <alias>rental</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>केवाईसी</grapheme>
+        <alias>K Y C</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>के-वाई-सी</grapheme>
+        <alias>K Y C</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>KYC</grapheme>
+        <alias>K Y C</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>DTH</grapheme>
+        <alias>D T H</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>रिफंड</grapheme>
+        <alias>refund</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>नमस्ते।</grapheme>
+        <alias>Namaste.</alias>
+    </lexeme>
+      <lexeme>
+        <grapheme>मैं</grapheme>
+        <alias>mai</alias>
+    </lexeme>
+ 
+    <lexeme>
+        <grapheme>मैं</grapheme>
+        <alias>mein</alias>
+    </lexeme>
+ 
+    <lexeme>
+        <grapheme>मैं</grapheme>
+        <alias>main</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>पीओएस आईडी</grapheme>
+        <alias>POS ID </alias>
+    </lexeme>
+      <lexeme>
+        <grapheme>पीओएस आईडी</grapheme>
+        <alias>POS ID </alias>
+    </lexeme>
+       <lexeme>
+        <grapheme>बताइयेगा</grapheme>
+        <alias>Bataiyega </alias>
+    </lexeme>
+   
+    <lexeme><grapheme>खाता संख्या</grapheme><alias>khaata sankhya</alias></lexeme>
+    <lexeme>
+    <grapheme>A</grapheme>
+    <alias>ए</alias>
+    </lexeme>
+    <lexeme>
+    <grapheme>B</grapheme>
+    <alias>बी</alias>
+    </lexeme>
+<lexeme>
+    <grapheme>C</grapheme>
+    <alias>सी</alias>
+</lexeme>
+<lexeme>
+    <grapheme>D</grapheme>
+    <alias>डी</alias>
+</lexeme>
+<lexeme>
+    <grapheme>E</grapheme>
+    <alias>ई</alias>
+</lexeme>
+<lexeme>
+    <grapheme>F</grapheme>
+    <alias>एफ</alias>
+</lexeme>
+<lexeme>
+    <grapheme>G</grapheme>
+    <alias>जी</alias>
+</lexeme>
+<lexeme>
+    <grapheme>H</grapheme>
+    <alias>एच</alias>
+</lexeme>
+<lexeme>
+    <grapheme>I</grapheme>
+    <alias>आइ</alias>
+</lexeme>
+<lexeme>
+    <grapheme>J</grapheme>
+    <alias>जे</alias>
+</lexeme>
+<lexeme>
+    <grapheme>K</grapheme>
+    <alias>के</alias>
+</lexeme>
+<lexeme>
+    <grapheme>L</grapheme>
+    <alias>एल</alias>
+</lexeme>
+<lexeme>
+    <grapheme>M</grapheme>
+    <alias>एम</alias>
+</lexeme>
+<lexeme>
+    <grapheme>N</grapheme>
+    <alias>एन</alias>
+</lexeme>
+<lexeme>
+    <grapheme>O</grapheme>
+    <alias>ओ</alias>
+</lexeme>
+<lexeme>
+    <grapheme>P</grapheme>
+    <alias>पी</alias>
+</lexeme>
+<lexeme>
+    <grapheme>Q</grapheme>
+    <alias>क्यू</alias>
+</lexeme>
+<lexeme>
+    <grapheme>R</grapheme>
+    <alias>आर</alias>
+</lexeme>
+<lexeme>
+    <grapheme>S</grapheme>
+    <alias>एस</alias>
+</lexeme>
+<lexeme>
+    <grapheme>T</grapheme>
+    <alias>टी</alias>
+</lexeme>
+<lexeme>
+    <grapheme>U</grapheme>
+    <alias>यू</alias>
+</lexeme>
+<lexeme>
+    <grapheme>V</grapheme>
+    <alias>वी</alias>
+</lexeme>
+<lexeme>
+    <grapheme>W</grapheme>
+    <alias>डब्ल्यू</alias>
+</lexeme>
+<lexeme>
+    <grapheme>X</grapheme>
+    <alias>एक्स</alias>
+</lexeme>
+<lexeme>
+    <grapheme>Y</grapheme>
+    <alias>वाय</alias>
+</lexeme>
+<lexeme>
+    <grapheme>Z</grapheme>
+    <alias>ज़ेड</alias>
+</lexeme>
+<lexeme>
+    <grapheme>fir</grapheme>
+    <alias>फिर</alias>
+</lexeme>
+<lexeme>
+    <grapheme>Fir</grapheme>
+    <alias>फिर</alias>
+</lexeme>
+</lexicon>
